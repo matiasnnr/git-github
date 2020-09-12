@@ -1,5 +1,3 @@
-Hola soy Matías Nicolás
+Hola soy Matías
 
-Soy Ingeniero Comercial de profesión y un enamorado de la programación... ¡Vamos a hacer algo bien loco!
-
-¡Bienvenido, empecemos!
+¡Bienvenido al curso de GitHub!
