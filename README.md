@@ -6,7 +6,7 @@ Git Commands and Terminal / Comandos de GIT y Terminal
 
 _A list of commonly used Git and Terminal commands_
 
-*Una pequeña lista de los comandos mas utilizados en Git y la Terminal*
+*Una lista de los comandos más utilizados en Git y la Terminal*
 
 --
 
