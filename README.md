@@ -1,5 +1,16 @@
-# git-github
-Probando Git y GitHub
+# git-github 💚
+Este repositorio lo hice por un curso de [Git](https://git-scm.com/ "Git") y [GitHub](https://github.com/matiasnnr "GitHub") que hice, en el cual aprendí a trabajar con la línea de comandos y también con las funciones que entrega GitHub en su página web
+
+*No soy un experto en git ni github, pero me sé manejar sin mayores problemas*
+
+##**Algunas cosas que vimos en el curso:**
+- Todos los comandos de Git
+- El flujo de trabajo en GitHub
+- Buenas prácticas
+- Algunos truquillos 😆
+
+
+**A continuación, una lista de comandos que podrían ser de ayuda 🙂**
 
 Git Commands and Terminal / Comandos de GIT y Terminal
 ============
