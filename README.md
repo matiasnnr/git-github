@@ -3,7 +3,7 @@ Este repositorio lo hice por un curso de [Git](https://git-scm.com/ "Git") y [Gi
 
 *No soy un experto en git ni github, pero me sé manejar sin mayores problemas*
 
-##**Algunas cosas que vimos en el curso:**
+**Algunas cosas que vimos en el curso:**
 - Todos los comandos de Git
 - El flujo de trabajo en GitHub
 - Buenas prácticas
