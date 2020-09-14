@@ -26,7 +26,7 @@ _A list of commonly used Git and Terminal commands_
 | `cat [name.txt]` | Concatenate files and print on the standard output | Vista previa del contenido del archivo |
 | `sudo` | execute a command as another user | Ejecuta un commando como administrador |
 
-### Config Git / Configuracion de Git
+### Config Git / Configuración de Git
 
 | Command | Description | Descripción |
 | ------- | ----------- | ------------ |
@@ -34,7 +34,7 @@ _A list of commonly used Git and Terminal commands_
 | `git config --global user.email user@example.com` | Add a email for user | Añade un correo del usuario |
 | `git config --list` | List all setings | Muestra todas las configuraciones |
 
-### Config SSH Keys / Configuracion de Credenciales SSH
+### Config SSH Keys / Configuración de Credenciales SSH
 
 | Command | Description | Descripción |
 | ------- | ----------- | ------------ |
@@ -42,14 +42,14 @@ _A list of commonly used Git and Terminal commands_
 | `eval $(ssh-agent -s)` | Verify ssh agent | Verifica la existencia del servidor de credenciales SSH |
 | `ssh-add [rute]` | Add SSH key to your workspace | Agrega la credencial SSH al entorno de trabajo |
 
-### Creating Projects / Creacion de proyectos
+### Creating Projects / Creación de proyectos
 
 | Command | Description | Descripción |
 | ------- | ----------- | ------------ |
 | `git init` | Initialize a local Git repository | Inicia un repositorio local de Git |
 | `git clone [url]` | Create a local copy of a remote repository | Crea una copia local de un repositorio remoto |
 
-### Basic Snapshotting / Snapshooting Basico
+### Basic Snapshotting / Snapshooting Básico
 
 | Command | Description | Descripción |
 | ------- | ----------- | ----------- |
@@ -59,7 +59,7 @@ _A list of commonly used Git and Terminal commands_
 | `git commit -m "[commit message]"` | Commit changes | Añade los archivos al repositorio |
 | `git commit -am "[commit message]"` |Add changed files and commit | Añande los cambios y hace commit |
 | `git rm -r [file-name.txt]` | Remove a file (or folder) | Elimina archivos o carpetas |
-| `git commit --ammend` | Ammend the last commit | Agrega los cambios al ultimo commit en caso de error |
+| `git commit --ammend` | Ammend the last commit | Agrega los cambios al último commit en caso de error |
 
 ### Branching & Merging / Ramas y fusionar
 
@@ -94,13 +94,13 @@ _A list of commonly used Git and Terminal commands_
 | `git remote -v` | list remote connections | Lista las conexiones remotas |
 | `git remote set-url [branch name] [url]` | Change the url | Cambia la url del repositorio |
 
-### Inspection & Comparison / Inspeccion y Comparacion
+### Inspection & Comparison / Inspección y Comparación
 
 | Command | Description | Descripción |
 | ------- | ----------- | ----------- |
 | `git log` | View changes | Muestra los cambios en el repositorio |
 | `git log --summary` | View changes (detailed) | Muestra los cambios en el repositorio detalladamente |
-| `git log -all --graph --decorate --oneline` | View changes (Max-detailed) | Muestra todos los cambios del repositorio detallada y graficamente |
+| `git log -all --graph --decorate --oneline` | View changes (Max-detailed) | Muestra todos los cambios del repositorio detallada y gráficamente |
 | `git diff [source branch] [target branch]` | Preview changes before merging | Compara los diferentes cambios |
 
 
